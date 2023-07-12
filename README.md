@@ -1,5 +1,5 @@
 # Workout-Buddy
-$Workout Buddy is an interactive and user-friendly website designed to help fitness enthusiasts track and optimize their workout routines. By providing a seamless sign-up and login process, users can create personalized accounts to access a range of features. With Workout Buddy, users can conveniently add exercises, specifying the weights and number of repetitions for each set.
+Workout Buddy is an interactive and user-friendly website designed to help fitness enthusiasts track and optimize their workout routines. By providing a seamless sign-up and login process, users can create personalized accounts to access a range of features. With Workout Buddy, users can conveniently add exercises, specifying the weights and number of repetitions for each set.
 
 Whether you're a beginner or an experienced gym-goer, Workout Buddy empowers you to customize your workout regimen. By logging exercises along with the associated weights and reps, you can monitor your progress over time and identify areas for improvement. This data-driven approach allows you to set realistic goals, track your performance, and make informed decisions to enhance your fitness journey.
 
